@@ -9,7 +9,7 @@ document.getElementById("btn-submit").addEventListener('click', function () {
 
     //Do not verify email password on the client-side.this is doing for the purpose of testing here.generally verifying email and pass on the server.
 
-    if (email === 'safayet@gmail.com' && password === '01834855444') {
+    if (email === 'safayet@gmail.com' && password === '01301681120') {
         //console.log('valid user')
         window.location.href = 'bank.html';
     }
